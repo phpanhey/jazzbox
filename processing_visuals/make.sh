@@ -1,0 +1,1 @@
+processing-java --force  --sketch=`pwd`/ --output=`pwd`/output --run

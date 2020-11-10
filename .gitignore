@@ -1,0 +1,15 @@
+face_recognition.jpg
+.ftppass
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.jpg
+*.out
+chord_emotion_data.tex
+latex_template.pdf
+.vscode
+application.macosx
+output
+printdata.txt
+
